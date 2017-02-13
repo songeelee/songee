@@ -7,5 +7,6 @@ public class TestGit {
 		System.out.println("dddddd");
 		System.out.println("언제쯤 되려나..");
 		System.out.println("dd");
+		System.out.println("dd");
 	}
 }
