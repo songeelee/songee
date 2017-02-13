@@ -10,5 +10,7 @@ public class TestGit {
 		System.out.println("호석 : 안녕?");
 		System.out.println("dd");
 		System.out.println("언제ㅉ쯤...되리ㅕ나....2");
+		System.out.println("dd");
+		System.out.println("샤랄랄ㄹ");
 	}
 }
